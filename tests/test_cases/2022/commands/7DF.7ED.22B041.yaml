@@ -1,0 +1,8 @@
+command_id: 7DF.7ED.22B041
+test_cases:
+- expected_values:
+    MG5_HVBAT_BUS_VOLTAGE: 402
+  response: 7ED0562B0410648
+- expected_values:
+    MG5_HVBAT_BUS_VOLTAGE: null
+  response: 7ED0562B0410FFE

@@ -1,0 +1,14 @@
+command_id: 7DF.7ED.22B046
+test_cases:
+- expected_values:
+    MG5_HVBAT_RAW_SOC: 0.2
+  response: 7ED0562B0460002
+- expected_values:
+    MG5_HVBAT_RAW_SOC: 25.5
+  response: 7ED0562B04600FF
+- expected_values:
+    MG5_HVBAT_RAW_SOC: 25.6
+  response: 7ED0562B0460100
+- expected_values:
+    MG5_HVBAT_RAW_SOC: 76.8
+  response: 7ED0562B0460300
