@@ -1,0 +1,16 @@
+command_id: 7DF.7ED.22B042
+test_cases:
+- expected_values:
+    MG5_HVBAT_VOLTAGE: 343.75
+  response: 7ED0562B042055F
+- expected_values:
+    MG5_HVBAT_VOLTAGE: 380.75
+  response: 7ED0562B04205F3
+- expected_values:
+    MG5_HVBAT_VOLTAGE: 396.25
+  response: 7ED0562B0420631
+- expected_values:
+    MG5_HVBAT_VOLTAGE: 361.25
+  response: |-
+    7EE0462B04203
+    7ED0562B04205A5

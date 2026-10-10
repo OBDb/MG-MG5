@@ -1,0 +1,29 @@
+command_id: 7DF.7ED.22B061
+test_cases:
+- expected_values:
+    MG5_HVBAT_SOH: 97.4
+  response: 7ED0562B061260C
+- expected_values:
+    MG5_HVBAT_SOH: 97.61
+  response: 7ED0562B0612621
+- expected_values:
+    MG5_HVBAT_SOH: 97.69
+  response: 7ED0562B0612629
+- expected_values:
+    MG5_HVBAT_SOH: 97.73
+  response: 7ED0562B061262D
+- expected_values:
+    MG5_HVBAT_SOH: 97.93
+  response: 7ED0562B0612641
+- expected_values:
+    MG5_HVBAT_SOH: 98.09
+  response: 7ED0562B0612651
+- expected_values:
+    MG5_HVBAT_SOH: 98.12
+  response: 7ED0562B0612654
+- expected_values:
+    MG5_HVBAT_SOH: 98.45
+  response: 7ED0562B0612675
+- expected_values:
+    MG5_HVBAT_SOH: 98.66
+  response: 7ED0562B061268A

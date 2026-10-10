@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/MG5"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2020
+    end_year: null
+    description: "The MG5 compact sedan sold from 2020, with 1.5-liter gasoline engines."

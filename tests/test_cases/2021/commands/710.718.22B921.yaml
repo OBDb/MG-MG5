@@ -1,0 +1,22 @@
+command_id: 710.718.22B921
+test_cases:
+- expected_values:
+    MG5_GWM_ODO: 89418
+  response: |-
+    718100962B921015D4A
+    71821000000AAAAAAAA
+- expected_values:
+    MG5_GWM_ODO: 89599
+  response: |-
+    718100962B921015DFF
+    71821000000AAAAAAAA
+- expected_values:
+    MG5_GWM_ODO: 89600
+  response: |-
+    718100962B921015E00
+    71821000000AAAAAAAA
+- expected_values:
+    MG5_GWM_ODO: 101377
+  response: |-
+    718100962B921018C01
+    71821000000AAAAAAAA
