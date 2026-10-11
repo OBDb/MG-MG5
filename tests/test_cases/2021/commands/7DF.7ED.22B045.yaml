@@ -7,8 +7,11 @@ test_cases:
     MG5_HVBAT_RESISTANCE: 7169.5
   response: 7ED0562B0453803
 - expected_values:
-    MG5_HVBAT_RESISTANCE: null
-  response: 7ED0562B0453FFE
+    MG5_HVBAT_RESISTANCE: 7295
+  response: 7ED0562B04538FE
+- expected_values:
+    MG5_HVBAT_RESISTANCE: 7684
+  response: 7ED0562B0453C08
 - expected_values:
     MG5_HVBAT_RESISTANCE: null
-  response: 7ED0562B0453FFF
+  response: 7ED0562B0453FFE
