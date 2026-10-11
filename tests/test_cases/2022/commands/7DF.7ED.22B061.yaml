@@ -1,5 +1,8 @@
 command_id: 7DF.7ED.22B061
 test_cases:
 - expected_values:
+    MG5_HVBAT_SOH: 97.62
+  response: 7ED0562B0612622
+- expected_values:
     MG5_HVBAT_SOH: 97.93
   response: 7ED0562B0612641

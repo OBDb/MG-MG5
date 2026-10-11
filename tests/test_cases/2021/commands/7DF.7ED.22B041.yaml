@@ -9,6 +9,9 @@ test_cases:
     7ED0562B041059B
     7EE0762B04100000000
 - expected_values:
+    MG5_HVBAT_BUS_VOLTAGE: 380.5
+  response: 7ED0562B04105F2
+- expected_values:
     MG5_HVBAT_BUS_VOLTAGE: 395.75
   response: 7ED0562B041062F
 - expected_values:
