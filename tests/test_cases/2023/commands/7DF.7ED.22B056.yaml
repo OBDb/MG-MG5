@@ -1,8 +1,8 @@
 command_id: 7DF.7ED.22B056
 test_cases:
 - expected_values:
-    MG5_HVBAT_TEMP: 12.5
-  response: 7ED0562B0566903
+    MG5_HVBAT_TEMP: 10.5
+  response: 7ED0562B0566502
 - expected_values:
     MG5_HVBAT_TEMP: 13
   response: 7ED0562B0566A0B

@@ -1,8 +1,8 @@
 command_id: 7DF.7ED.22B05C
 test_cases:
 - expected_values:
-    MG5_HVBAT_COOLANT_TEMP: 11
-  response: 7ED0462B05C66
+    MG5_HVBAT_COOLANT_TEMP: 10
+  response: 7ED0462B05C64
 - expected_values:
     MG5_HVBAT_COOLANT_TEMP: 33.5
   response: 7ED0462B05C93
