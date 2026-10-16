@@ -15,3 +15,8 @@ test_cases:
   response: |-
     718100962B921007D00
     71821000000AAAAAAAA
+- expected_values:
+    MG5_GWM_ODO: 32256
+  response: |-
+    718100962B921007E00
+    71821000000AAAAAAAA
