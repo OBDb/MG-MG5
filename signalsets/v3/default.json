@@ -73,7 +73,7 @@
   "signals": [
     {"id": "MG5_HVBAT_CURRENT", "path": "Battery", "fmt": { "len": 16, "max": 638.375, "min": -1000, "div": 40, "add": -1000, "unit": "amps" }, "name": "HV battery current"}
   ]},
-{ "hdr": "7DF", "rax": "7ED", "cmd": {"22": "B045"}, "freq": 60, "dbgfilter": { "to": 2020, "from": 2024 },
+{ "hdr": "7DF", "rax": "7ED", "cmd": {"22": "B045"}, "freq": 60, "dbgfilter": { "to": 2020, "years": [2022], "from": 2024 },
   "signals": [
     {"id": "MG5_HVBAT_RESISTANCE", "path": "Battery.Internal", "fmt": { "len": 16, "max": 8191.5, "div": 2, "nullmax": 8191, "unit": "scalar" }, "name": "HV battery internal resistance"}
   ]},
