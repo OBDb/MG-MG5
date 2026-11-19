@@ -1,8 +1,17 @@
 command_id: 7DF.7ED.22B045
 test_cases:
 - expected_values:
-    MG5_HVBAT_RESISTANCE: null
-  response: 7ED0562B0453FFE
+    MG5_HVBAT_RESISTANCE: 6360.5
+  response: 7ED0562B04531B1
+- expected_values:
+    MG5_HVBAT_RESISTANCE: 6783.5
+  response: 7ED0562B04534FF
+- expected_values:
+    MG5_HVBAT_RESISTANCE: 6785
+  response: 7ED0562B0453502
+- expected_values:
+    MG5_HVBAT_RESISTANCE: 7044.5
+  response: 7ED0562B0453709
 - expected_values:
     MG5_HVBAT_RESISTANCE: null
-  response: 7ED0562B0453FFF
+  response: 7ED0562B0453FFE
